@@ -1,0 +1,27 @@
+2023-12-29 12:40:01 INFO  [utils.Base] Browser Launched
+2023-12-29 12:40:03 INFO  [utils.Base] Browser Loaded the URL
+2023-12-29 12:40:06 INFO  [pages.homepage] 1234
+2023-12-29 12:40:06 INFO  [pages.homepage] qwert
+2023-12-29 12:40:06 INFO  [pages.homepage] Chrome
+2023-12-29 12:40:07 INFO  [pages.homepage] Info Message!
+2023-12-29 12:40:07 WARN  [pages.homepage] Warn Message!
+2023-12-29 12:40:07 ERROR [pages.homepage] Error Message!
+2023-12-29 12:40:07 FATAL [pages.homepage] Fatal Message!
+2023-12-29 12:40:18 INFO  [utils.Base] Browser Launched
+2023-12-29 12:40:20 INFO  [utils.Base] Browser Loaded the URL
+2023-12-29 12:40:22 INFO  [pages.homepage] 1234
+2023-12-29 12:40:22 INFO  [pages.homepage] qwert
+2023-12-29 12:40:22 INFO  [pages.homepage] Chrome
+2023-12-29 12:40:23 INFO  [pages.homepage] Info Message!
+2023-12-29 12:40:23 WARN  [pages.homepage] Warn Message!
+2023-12-29 12:40:23 ERROR [pages.homepage] Error Message!
+2023-12-29 12:40:23 FATAL [pages.homepage] Fatal Message!
+2023-12-29 12:40:28 INFO  [utils.Base] Browser Launched
+2023-12-29 12:40:31 INFO  [utils.Base] Browser Loaded the URL
+2023-12-29 12:40:33 INFO  [pages.homepage] 1234
+2023-12-29 12:40:33 INFO  [pages.homepage] qwert
+2023-12-29 12:40:33 INFO  [pages.homepage] Chrome
+2023-12-29 12:40:33 INFO  [pages.homepage] Info Message!
+2023-12-29 12:40:33 WARN  [pages.homepage] Warn Message!
+2023-12-29 12:40:33 ERROR [pages.homepage] Error Message!
+2023-12-29 12:40:33 FATAL [pages.homepage] Fatal Message!
